@@ -3,12 +3,13 @@ Description: Upstream changes introduced in version 0.5-1
  Here's the last changelog entry, hopefully it gives details on why
  those changes were made:
  .
- pypol (0.5-1) unstable; urgency=low
+ pypol (0.5-1) maverick; urgency=low
  .
-   * Initial release
+   * Initial release (Closes: 613228)
  .
  The person named in the Author field signed this changelog entry.
 Author: Michele Lacchia <michelelacchia@gmail.com>
+Bug-Debian: http://bugs.debian.org/613228
 
 ---
 The information above should follow the Patch Tagging Guidelines, please

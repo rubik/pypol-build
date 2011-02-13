@@ -103,18 +103,18 @@ reading manifest template 'MANIFEST.in'
 warning: no files found matching 'README.textile'
 writing manifest file 'pypol_.egg-info/SOURCES.txt'
 running install_lib
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
-copying build/lib.linux-i686-2.6/pypol/__init__.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
-copying build/lib.linux-i686-2.6/pypol/core.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
-copying build/lib.linux-i686-2.6/pypol/series.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
-copying build/lib.linux-i686-2.6/pypol/funcs.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
-copying build/lib.linux-i686-2.6/pypol/roots.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
+copying build/lib.linux-i686-2.6/pypol/__init__.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
+copying build/lib.linux-i686-2.6/pypol/core.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
+copying build/lib.linux-i686-2.6/pypol/series.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
+copying build/lib.linux-i686-2.6/pypol/funcs.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
+copying build/lib.linux-i686-2.6/pypol/roots.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol
 running install_egg_info
-Copying pypol_.egg-info to /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol_-0.5.egg-info
+Copying pypol_.egg-info to /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.6/dist-packages/pypol_-0.5.egg-info
 running install_scripts
 running install
 running build
@@ -133,16 +133,16 @@ reading manifest template 'MANIFEST.in'
 warning: no files found matching 'README.textile'
 writing manifest file 'pypol_.egg-info/SOURCES.txt'
 running install_lib
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages
-creating /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
-copying build/lib.linux-i686-2.7/pypol/__init__.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
-copying build/lib.linux-i686-2.7/pypol/core.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
-copying build/lib.linux-i686-2.7/pypol/series.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
-copying build/lib.linux-i686-2.7/pypol/funcs.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
-copying build/lib.linux-i686-2.7/pypol/roots.py -> /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages
+creating /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
+copying build/lib.linux-i686-2.7/pypol/__init__.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
+copying build/lib.linux-i686-2.7/pypol/core.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
+copying build/lib.linux-i686-2.7/pypol/series.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
+copying build/lib.linux-i686-2.7/pypol/funcs.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
+copying build/lib.linux-i686-2.7/pypol/roots.py -> /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol
 running install_egg_info
-Copying pypol_.egg-info to /home/miki/dh-pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol_-0.5.egg-info
+Copying pypol_.egg-info to /home/miki/pypol-build/pypol-0.5/debian/python-pypol/usr/lib/python2.7/dist-packages/pypol_-0.5.egg-info
 running install_scripts
    dh_install
    dh_installdocs
@@ -191,5 +191,10 @@ dpkg-genchanges: including full source code in upload
  dpkg-source --after-build pypol-0.5
 dpkg-buildpackage: full upload (original source is included)
 Now running lintian...
-W: python-pypol: new-package-should-close-itp-bug
 Finished running lintian.
+Now signing changes and any dsc files...
+ signfile pypol_0.5-1.dsc Michele Lacchia <michelelacchia@gmail.com>
+
+ signfile pypol_0.5-1_i386.changes Michele Lacchia <michelelacchia@gmail.com>
+
+Successfully signed dsc and changes files
