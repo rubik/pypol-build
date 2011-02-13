@@ -1,0 +1,13 @@
+f0ecedd6d51eb275bf8b0e64f8db605f  usr/share/doc/python-pypol/TODO
+d25acc6c3683d9e9716844920495f543  usr/share/doc/python-pypol/changelog.Debian.gz
+7f65052f8674f330216aa5a60256fc2a  usr/share/doc/python-pypol/copyright
+a43b46c5ee6dc3fda249e40db223406f  usr/share/python-pypol/pypol/__init__.py
+9ba6370fb124a9eb9a3b47fe954ec990  usr/share/python-pypol/pypol/core.py
+271f016dbef725140b26da6f4388fba3  usr/share/python-pypol/pypol/funcs.py
+fe4b4406fa448a7dd4e01fd0387b5950  usr/share/python-pypol/pypol/roots.py
+2be404c0a92e37d4b70e6c2612511939  usr/share/python-pypol/pypol/series.py
+b8b88e9319c5e9c039c3e8d94470d62d  usr/share/python-pypol/pypol_-0.4.egg-info/PKG-INFO
+624342596cc1793e9802bcd38d573616  usr/share/python-pypol/pypol_-0.4.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/python-pypol/pypol_-0.4.egg-info/dependency_links.txt
+206bd327cfe5810535d84ee2ddf86ece  usr/share/python-pypol/pypol_-0.4.egg-info/top_level.txt
+d500d25996d3c387da5ecbfd22727ce0  usr/share/python-support/python-pypol.private

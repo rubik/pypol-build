@@ -1,0 +1,6 @@
+dpkg-source: info: local changes stored in python-pypol-0.5/debian/patches/debian-changes-0.5-1, the modified files are:
+ python-pypol-0.5/log.dpkg-log
+ python-pypol-0.5/pypol_.egg-info/PKG-INFO
+ python-pypol-0.5/pypol_.egg-info/SOURCES.txt
+ python-pypol-0.5/pypol_.egg-info/dependency_links.txt
+ python-pypol-0.5/pypol_.egg-info/top_level.txt
