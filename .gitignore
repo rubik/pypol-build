@@ -1,5 +1,7 @@
 *.log
 *.debhelper
 *.substvars
+.pc/
+build/
 patches/
 python-module-stampdir/
