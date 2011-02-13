@@ -1,0 +1,92 @@
+Description: Upstream changes introduced in version 0.5-1
+ This patch has been created by dpkg-source during the package build.
+ Here's the last changelog entry, hopefully it gives details on why
+ those changes were made:
+ .
+ pypol (0.5-1) unstable; urgency=low
+ .
+   * Initial release
+ .
+ The person named in the Author field signed this changelog entry.
+Author: Michele Lacchia <michelelacchia@gmail.com>
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+Origin: <vendor|upstream|other>, <url of original patch>
+Bug: <url in upstream bugtracker>
+Bug-Debian: http://bugs.debian.org/<bugnumber>
+Bug-Ubuntu: https://launchpad.net/bugs/<bugnumber>
+Forwarded: <no|not-needed|url proving that it has been forwarded>
+Reviewed-By: <name and email of someone who approved the patch>
+Last-Update: <YYYY-MM-DD>
+
+--- /dev/null
++++ pypol-0.5/pypol_.egg-info/PKG-INFO
+@@ -0,0 +1,17 @@
++Metadata-Version: 1.0
++Name: pypol-
++Version: 0.4
++Summary: Python polynomial library
++Home-page: http://pypol.altervista.org/
++Author: Michele Lacchia
++Author-email: michelelacchia@gmail.com
++License: GNU GPL v3
++Download-URL: http://github.com/rubik/pypol/downloads/
++Description: UNKNOWN
++Platform: any
++Classifier: Topic :: Scientific/Engineering :: Mathematics
++Classifier: Intended Audience :: Science/Research
++Classifier: License :: OSI Approved :: GNU General Public License (GPL)
++Classifier: Natural Language :: English
++Classifier: Operating System :: OS Independent
++Classifier: Programming Language :: Python :: 2.6
+--- /dev/null
++++ pypol-0.5/pypol_.egg-info/top_level.txt
+@@ -0,0 +1 @@
++pypol
+--- /dev/null
++++ pypol-0.5/pypol_.egg-info/dependency_links.txt
+@@ -0,0 +1 @@
++
+--- /dev/null
++++ pypol-0.5/pypol_.egg-info/SOURCES.txt
+@@ -0,0 +1,35 @@
++CHANGELOG
++LICENSE
++MANIFEST.in
++setup.py
++doc/Makefile
++doc/changelog.rst
++doc/classes.rst
++doc/conf.py
++doc/contacts.rst
++doc/funcs.rst
++doc/functions.rst
++doc/index.rst
++doc/make.bat
++doc/operations.rst
++doc/roots.rst
++doc/series.rst
++doc/tutorial.rst
++doc/_themes/boto_theme/theme.conf
++doc/_themes/boto_theme/static/boto.css_t
++doc/_themes/boto_theme/static/pygments.css
++doc/_themes/celery/theme.conf
++doc/_themes/celery/static/celery.css_t
++pypol/__init__.py
++pypol/core.py
++pypol/funcs.py
++pypol/roots.py
++pypol/series.py
++pypol_.egg-info/PKG-INFO
++pypol_.egg-info/SOURCES.txt
++pypol_.egg-info/dependency_links.txt
++pypol_.egg-info/top_level.txt
++tests/test_funcs.py
++tests/test_pypol.py
++tests/test_roots.py
++tests/test_series.py
+\ No newline at end of file

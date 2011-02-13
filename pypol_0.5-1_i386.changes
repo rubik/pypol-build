@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 11 Feb 2011 15:02:57 +0100
+Source: pypol
+Binary: python-pypol
+Architecture: source all
+Version: 0.5-1
+Distribution: unstable
+Urgency: low
+Maintainer: Michele Lacchia <michelelacchia@gmail.com>
+Changed-By: Michele Lacchia <michelelacchia@gmail.com>
+Description: 
+ python-pypol - A new pure-Python polynomial library
+Changes: 
+ pypol (0.5-1) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ d36e172809e3e78de5dc8191bd9902c976a90cc4 1367 pypol_0.5-1.dsc
+ df7132af2c639844a8094b3e9fe6d84f8bb7b242 154906 pypol_0.5.orig.tar.gz
+ 04c7b95073c72166d3e8e9b0d2c56ba811bb5293 2907 pypol_0.5-1.debian.tar.gz
+ 60eab103a465d9f6a2c38ac0cedce9fc07667e04 50788 python-pypol_0.5-1_all.deb
+Checksums-Sha256: 
+ cedc2f1a9cc2ed44a4c777875635ad188bdf0f0a242ee49a96969e3b3f8a836b 1367 pypol_0.5-1.dsc
+ f6e4a95dc2da4e7339d784a8fa1567acb9b99ecc108228e5d033c6f3f7b8f4e9 154906 pypol_0.5.orig.tar.gz
+ 5640c17e69b9b626f226e93a81ef7885c662bc512323eea2a3afc06b7b4ac0f6 2907 pypol_0.5-1.debian.tar.gz
+ a97db92c1eb0d5b4db03ac87dc4f7769fc3e953ce34acf5a4c1c07bc3c247482 50788 python-pypol_0.5-1_all.deb
+Files: 
+ 1cdbbbff11b3c316a3f4566d07fa21b2 1367 python optional pypol_0.5-1.dsc
+ 214ca48f472e9e81bd3cf0c4f0a96852 154906 python optional pypol_0.5.orig.tar.gz
+ 920d9998800d5c35287ba6c46eb61045 2907 python optional pypol_0.5-1.debian.tar.gz
+ 5d13398ddbbe8f90c0dc3c619f4cfbe9 50788 python optional python-pypol_0.5-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQEcBAEBAgAGBQJNVkOuAAoJEGC6ZTTE7cW3dE0H/1L25zz5YslA9R9ChI4rFDyt
+NufSYljYkvi/NsWQVZE87OUdLRi9yuv3RKZKz7RcM1fd1YCPTqzvP4ew8J3HJuvU
+Q4rmQg5jg6crgvX+MtU8kMqnha60qqkVUsN4y51nn/3SC1QkRWvauygQtjxkIav3
+J8idwrm5fYIUXXabJheh+kPtuumnunk+FlvdV5IizV7xH3MxyqEDK2PpJ+lHH/Ag
+H/nUWQMrz71zvMtIejGD5ixYA3STyH/WvpNRGurfZUJRv04XHNqBtLg/vXgGfzG5
+3z2BMLw0p6lJqQwMDbSkVkM199eXNg0bTYI+qkP3Ks8fPz1aCuqiV/HKOWvFtqc=
+=YM3q
+-----END PGP SIGNATURE-----
