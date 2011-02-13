@@ -1,0 +1,12 @@
+96343f6cba03db38bbb9d8dba2419123  usr/share/doc/python-pypol/changelog.Debian.gz
+7f65052f8674f330216aa5a60256fc2a  usr/share/doc/python-pypol/copyright
+a43b46c5ee6dc3fda249e40db223406f  usr/share/pyshared/pypol/__init__.py
+9fd5234ac524e44416606e15c5ce1396  usr/share/pyshared/pypol/core.py
+7829a84ce3b2cedeff85cd115f90b1eb  usr/share/pyshared/pypol/funcs.py
+bcc3a0cc384b8a76dd9221de631cb55e  usr/share/pyshared/pypol/roots.py
+795c14d9415711a6d2667acf56537475  usr/share/pyshared/pypol/series.py
+6d711ffe8c032843f6febc8a377a063e  usr/share/pyshared/pypol_-0.5.egg-info/PKG-INFO
+624342596cc1793e9802bcd38d573616  usr/share/pyshared/pypol_-0.5.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/pypol_-0.5.egg-info/dependency_links.txt
+206bd327cfe5810535d84ee2ddf86ece  usr/share/pyshared/pypol_-0.5.egg-info/top_level.txt
+46723ebdb6411dce1d8b7fcfab73ceb7  usr/share/python-support/python-pypol.public

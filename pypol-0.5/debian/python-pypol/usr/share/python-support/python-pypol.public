@@ -1,0 +1,11 @@
+pyversions=2.6,2.7
+
+/usr/share/pyshared/pypol/__init__.py
+/usr/share/pyshared/pypol/core.py
+/usr/share/pyshared/pypol/funcs.py
+/usr/share/pyshared/pypol/roots.py
+/usr/share/pyshared/pypol/series.py
+/usr/share/pyshared/pypol_-0.5.egg-info/PKG-INFO
+/usr/share/pyshared/pypol_-0.5.egg-info/SOURCES.txt
+/usr/share/pyshared/pypol_-0.5.egg-info/dependency_links.txt
+/usr/share/pyshared/pypol_-0.5.egg-info/top_level.txt

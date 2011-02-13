@@ -1,0 +1,18 @@
+Package: python-pypol
+Source: pypol
+Version: 0.5-1
+Architecture: all
+Maintainer: Michele Lacchia <michelelacchia@gmail.com>
+Installed-Size: 272
+Depends: python (<< 2.8), python (>= 2.6), python-support (>= 0.90.0)
+Section: python
+Priority: optional
+Homepage: http://pypol.altervista.org
+Description: A new pure-Python polynomial library
+ Pypol is a new, pure-Python library that allows you to manipulate polynomials.
+ .
+ It offers several functions and modules, including:
+  * a base class that represent a Polynomial object, with over 30 methods
+  * utility functions such as polynomial derivative, integration, etc.
+  * the most common root-finding algorithms
+  * some generator-functions for the most common polynomial series

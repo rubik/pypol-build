@@ -1,8 +1,5 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
-
 Format: 1.8
-Date: Fri, 11 Feb 2011 15:02:57 +0100
+Date: Sun, 13 Feb 2011 14:53:12 +0100
 Source: pypol
 Binary: python-pypol
 Architecture: source all
@@ -18,29 +15,17 @@ Changes:
  .
    * Initial release
 Checksums-Sha1: 
- eefb3315229b6e29586a59366a88913c3bc1b259 1367 pypol_0.5-1.dsc
- df7132af2c639844a8094b3e9fe6d84f8bb7b242 154906 pypol_0.5.orig.tar.gz
- cfee6a112bd353a192890d06d53e2dd448d10c2e 2975 pypol_0.5-1.debian.tar.gz
- 2024b07bf3b1ee2ecce3eb0a0bd7342b994e1bc9 50788 python-pypol_0.5-1_all.deb
+ 7ad30302a8a449d257e4677218f7819150a6900b 779 pypol_0.5-1.dsc
+ 5b0f290e68b0b02afc7ee8044fe3f44d94c780e6 654073 pypol_0.5.orig.tar.gz
+ 88f19587536ccb6fec38446c8608c5086d89ceb2 2849 pypol_0.5-1.debian.tar.gz
+ 7bb871d9563a68bd6052f08dc3c05a5d469768ba 52868 python-pypol_0.5-1_all.deb
 Checksums-Sha256: 
- d1d554b23ae3fa8699892a931f0f7622f13c9222507b941bf30583636d8d191d 1367 pypol_0.5-1.dsc
- f6e4a95dc2da4e7339d784a8fa1567acb9b99ecc108228e5d033c6f3f7b8f4e9 154906 pypol_0.5.orig.tar.gz
- 331ecc200722568aa945e388e5b69ce57c7999fd8569fd6e99216c31c8f29e5c 2975 pypol_0.5-1.debian.tar.gz
- 1d5de56aeb6ef3c123ec33f769343527c072c90957650a2875d6c420bcbc7d4b 50788 python-pypol_0.5-1_all.deb
+ 9c1dcef579a17c8f8f3513be52f52d8bb035d445dfa69e8af8927fc775719a9d 779 pypol_0.5-1.dsc
+ bcb45d14bb405422ddaaaa58e4d71fa3a984840ed00b2f7a2d71047126c7fb8e 654073 pypol_0.5.orig.tar.gz
+ b9d17a2be641a51b524082b9239a1857dad8ebf72499e9e62efc06607b3c9759 2849 pypol_0.5-1.debian.tar.gz
+ 0c85383710ce479b49102b0844a95177ab9536a1c0007bc843d00f6052d04e9a 52868 python-pypol_0.5-1_all.deb
 Files: 
- 251b3718c3092ef6dfebffc2a802e170 1367 python optional pypol_0.5-1.dsc
- 214ca48f472e9e81bd3cf0c4f0a96852 154906 python optional pypol_0.5.orig.tar.gz
- e9fe67fc844acbd5375951ebc2017b52 2975 python optional pypol_0.5-1.debian.tar.gz
- e8c3e8e06b5c9e9fa8cba5f377228b0e 50788 python optional python-pypol_0.5-1_all.deb
-
------BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.10 (GNU/Linux)
-
-iQEcBAEBAgAGBQJNV9kXAAoJEGC6ZTTE7cW3+g0H/1XFy0c8IBVk+aZjkSs+t8QI
-iaLT6aJbCqs9TBdn0qUCOHceVxo8ZGa6HRfAJGqfUosi1olpsHgnOTD3oTZOHkqS
-o/5T0Erbu8ExdWzU/sOAU5q8wqRuP8LRlBI4M+8gclJYdTPXFIUra6hh0Ys4sWeX
-a6bLd98jJsoxMrkugjGuGosM+HydxdImD9+gaXBSZ3epAAGJYsJ4QIhI80soJPQO
-TRI23ahNthu9Xok3gTdcqMNWoV2VlXKxE6Q51P8/3tsITEt4nrV+Z/a+FQq/+SA5
-j+5jWu3qdqDvcoafbSWIGmfjobmv4ZYryA0nWSKg4vm0FiXH5f7IRkIU95yArrE=
-=ca/X
------END PGP SIGNATURE-----
+ 2899c9fc552db2e20bc344c9ac03f5e1 779 python optional pypol_0.5-1.dsc
+ 0280173831083593e1918eb82011a7a3 654073 python optional pypol_0.5.orig.tar.gz
+ 083961a95f7f1aca1e546fb27e51146d 2849 python optional pypol_0.5-1.debian.tar.gz
+ b2ee026160b127f64ad50ef88232a6d2 52868 python optional python-pypol_0.5-1_all.deb

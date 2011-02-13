@@ -1,0 +1,148 @@
+Release 0.5 (Feb 12, 2011)
+--------------------------
+
+Renamed :func:`pypol.funcs.striling_2` to :func:`pypol.funcs.striling2`
+
+New in :class:`pypol.Polynomial`:
+    + :attr:`pypol.Polynomial.rhs`
+    + :meth:`pypol.Polynomial.from_roots`
+    + :meth:`pypol.Polynomial.isnum`
+    + :meth:`pypol.Polynomial.to_float`
+
+New in :mod:`pypol.roots`:
+    + :func:`pypol.roots.muller`
+    + :func:`pypol.roots.ridder`
+
+New in :mod:`pypol.funcs`:
+    + :func:`pypol.funcs.entringer`
+    + :func:`pypol.funcs.lucas_num`
+    + :func:`pypol.funcs.pell_num`
+    + :func:`pypol.funcs.jacobsthal_num`
+    + :func:`pypol.funcs.fermat_num`
+    + :func:`pypol.funcs.pell_lucas_num`
+    + :func:`pypol.funcs.jacobshtal_lucas_num`
+    + :func:`pypol.funcs.fermat_lucas_num``
+
+Changed in :meth:`pypol.Polynomial.from_roots` and in :func:`pypol.funcs.from_roots`:
+    + Added argument *var*
+
+Removed from :class:`pypol.Polynomial`:
+    - :meth:`pypol.Polynomial.__str__`
+
+Release 0.4 (Jan 23, 2011)
+--------------------------
+
+New modules:
+    + New module: :mod:`pypol.roots`
+    + New module: :mod:`pypol.series`
+
+Changes:
+    + Moved :func:`gcd` and :func:`lcm` from :mod:`pypol.funcs` to :mod:`pypol` (core)
+    + Moved :func:`pypol.funcs.newton` to :func:`pypol.roots.newton`
+    + Moved :func:`pypol.funcs.ruffini` to :func:`pypol.roots.ruffini`
+    + Moved :func:`pypol.funcs.bisection` to :func:`pypol.roots.bisection`
+    + Renamed :func:`pypol.funcs.fib_poly` to :func:`pypol.funcs.fibonacci`
+    + Changed: :func:`pypol.funcs.bin_coeff` now returns integers
+
+New in :mod:`pypol.roots`:
+    + :func:`pypol.roots.halley`
+    + :func:`pypol.roots.householder`
+    + :func:`pypol.roots.brent`
+
+New in :mod:`pypol.series`:
+    + :class:`pypol.series.LucasSeq`
+    + :func:`pypol.series.gegenbauer`
+    + :func:`pypol.series.laguerre`
+    + :func:`pypol.series.laguerre_g`
+    + :func:`pypol.series.touchard`
+    + :func:`pypol.series.lucas`
+    + :func:`pypol.series.pell`
+    + :func:`pypol.series.pell_lucas`
+    + :func:`pypol.series.jacobsthal`
+    + :func:`pypol.series.jacobshtal_lucas`
+    + :func:`pypol.series.fermat`
+    + :func:`pypol.series.fermat_lucas`
+
+Added in :mod:`pypol.funcs`:
+    + :func:`pypol.funcs.polyint_`
+    + :func:`pypol.funcs.divided_diff`
+    + :func:`pypol.funcs.bin_coeff`
+    + :func:`pypol.funcs.harmonic`
+    + :func:`pypol.funcs.harmonic_g`
+    + :func:`pypol.funcs.stirling`
+    + :func:`pypol.funcs.stirling2`
+    + :func:`pypol.funcs.bell_num`
+
+New :class:`pypol.Polynomial` methods:
+    + :meth:`pypol.Polynomial.get`
+    + :meth:`pypol.Polynomial.filter`
+
+Removed:
+    - :meth:`Polynomial.zeros`
+    - :func:`pypol.funcs.fib_poly_r`
+    - :func:`pypol.funcs.hermite_prob_r`
+    - :func:`pypol.funcs.hermite_phys_r`
+
+
+Release 0.3 (Sep 29, 2010)
+--------------------------
+
+Added:
+    + new module: :mod:`pypol.funcs`
+    + :func:`pypol.funcs.random_poly` :: not_null
+    + :func:`pypol.poly1d`
+    + :func:`pypol.poly1d_2`
+    + :func:`pypol.funcs.divisible`
+    + :func:`pypol.funcs.gcd`
+    + :func:`pypol.funcs.lcm`
+    + :func:`pypol.funcs.random_poly`
+    + :func:`pypol.funcs.polyder`
+    + :func:`pypol.funcs.polyint`
+    + :func:`pypol.funcs.fib_poly`
+    + :func:`pypol.funcs.fib_poly_r`
+    + :func:`pypol.funcs.hermite_prob`
+    + :func:`pypol.funcs.hermite_prob_r`
+    + :func:`pypol.funcs.hermite_phys`
+    + :func:`pypol.funcs.hermite_phys_r`
+    + :func:`pypol.funcs.chebyshev_t`
+    + :func:`pypol.funcs.chebyshev_u`
+    + :func:`pypol.funcs.abel`
+    + :func:`pypol.funcs.quadratic`
+    + :func:`pypol.funcs.bisection`
+    + :func:`pypol.funcs.ruffini`
+
+Removed:
+    - :func:`testpypol.run`
+    - :func:`pypol.root`
+    - :func:`pypol.make_polynomial`
+    - :meth:`pypol.Polynomial.insert`
+    - :attr:`pypol.Polynomial.coeff_gcd`
+    - :attr:`pypol.Polynomial.coeff_lcm`
+
+
+Release 0.2 (Sep 20, 2010)
+--------------------------
+
+Added:
+    + :func:`testpypol.run`
+    + :func:`pypol.monomial`
+    + :func:`pypol.funcs.random_poly` :: unique
+    + :meth:`pypol.Polynomial.sort`
+    + :meth:`pypol.Polynomial.coeff_gcd`
+    + :meth:`pypol.Polynomial.coeff_lcm`
+    + :meth:`pypol.Polynomial.gcd`
+    + :meth:`pypol.Polynomial.lcm`
+    + :meth:`pypol.Polynomial.joint_letters`
+    + :meth:`pypol.Polynomial.max_letter`
+    + :meth:`pypol.Polynomial.is_square_diff`
+    + :meth:`pypol.Polynomial.div_all`
+    + :meth:`pypol.Polynomial._key`
+
+Removed:
+    - :meth:`pypol.Polynomial._cmp`
+
+
+Release 0.1 (Sep 3, 2010)
+-------------------------
+
+    * Initial release
